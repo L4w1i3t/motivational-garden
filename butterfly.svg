@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Butterfly</title>
+    <g stroke="none" fill="#9C27B0">
+        <!-- Left wing -->
+        <path d="M15,15 C10,5 2,8 5,15 C2,22 10,25 15,15 Z" />
+        <!-- Right wing -->
+        <path d="M15,15 C20,5 28,8 25,15 C28,22 20,25 15,15 Z" />
+        <!-- Body -->
+        <path d="M14,5 C16,5 16,25 14,25 C12,25 12,5 14,5 Z" />
+        <!-- Antennae -->
+        <path d="M13,5 C12,2 10,1 9,2" stroke="#000" fill="none" />
+        <path d="M17,5 C18,2 20,1 21,2" stroke="#000" fill="none" />
+    </g>
+</svg>
